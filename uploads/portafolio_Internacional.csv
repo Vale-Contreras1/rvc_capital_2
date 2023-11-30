@@ -1,4 +1,4 @@
-"fecha";"Run Fondo";"nombre_fondo";"nemo_instr";"nombre_emisor";"cod_pais_emi";"tipo_instr";"fecha_venc";"sit_instr";"clas_ries";"nombre_gr_emp";"cant_un";"tipo_un";"tir";"valor_par";"valor_rel";"cod_valor";"base_tasa";"tipo_int";"valor_cierre";"cod_mon_liq";"cod_pais_tra";"porc_cap_emi";"porc_tot_act";"porc_act_fon"
+"fecha_inf";"Run Fondo";"nombre_fondo";"nemo_instr";"nombre_emisor";"cod_pais_emi";"tipo_instr";"fecha";"sit_instr";"clas_ries";"nombre_gr_emp";"cant_un";"tipo_un";"tir";"valor_par";"valor_rel";"cod_valor";"base_tasa";"tipo_int";"valor_cierre";"cod_mon_liq";"cod_pais_tra";"porc_cap_emi";"porc_tot_act";"porc_act_fon"
 2023-01-01;"8230";MARKET DOLAR;US912796YB94;Departamento del Tesoro de los;US   ;BEBCE;2023-03-02;1;AAA;NA;22000000;PROM;4.16;;;1;360;NC;21928;PROM;US;0.0;0.0;1.632
 2023-01-01;"8230";MARKET DOLAR;US912796YB94;Departamento del Tesoro de los;US   ;BEBCE;2023-03-02;1;AAA;NA;15000000;PROM;4.15;;;1;360;NC;14951;PROM;US;0.0;0.0;1.113
 2023-01-01;"8230";MARKET DOLAR;US912796YB94;Departamento del Tesoro de los;US   ;BEBCE;2023-03-02;1;AAA;NA;24500000;PROM;4.18;;;1;360;NC;24419;PROM;US;0.0;0.0;1.817
