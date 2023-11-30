@@ -1,4 +1,4 @@
-"fecha";"Run Fondo";"nombre_fondo";"nemo_instr";"rut_emisor";"dig_ver_emi";"cod_pais_emi";"tipo_instr";"fecha_venc";"sit_instr";"clas_ries";"cod_gr_emp";"cant_un";"tipo_un";"tir";"valor_par";"valor_rel";"cod_valor";"base_tasa";"tipo_int";"valor_cierre";"cod_mon_liq";"cod_pais_tra";"porc_cap_emi";"porc_tot_act";"porc_act_fon"
+"fecha_inf";"Run Fondo";"nombre_fondo";"nemo_instr";"rut_emisor";"dig_ver_emi";"cod_pais_emi";"tipo_instr";"fecha";"sit_instr";"clas_ries";"cod_gr_emp";"cant_un";"tipo_un";"tir";"valor_par";"valor_rel";"cod_valor";"base_tasa";"tipo_int";"valor_cierre";"cod_mon_liq";"cod_pais_tra";"porc_cap_emi";"porc_tot_act";"porc_act_fon"
 2023-01-01;"8230";MARKET DOLAR;F*BNS-230323;"97018000";"1";CL   ;DPC;2023-03-23;1;N-1;32;1730647222;PROM;5.5;;;1;360;NL;17175;PROM;CL;0.0;0.0;1.278
 2023-01-01;"8230";MARKET DOLAR;F*HSB-150323;"97951000";"4";CL   ;DPC;2023-03-15;1;N-1;0;20000000;PROM;5.1;;;1;360;NL;19882;PROM;CL;0.0;0.001;1.48
 2023-01-01;"8230";MARKET DOLAR;F*INT-230623;"97011000";"3";CL   ;DPC;2023-06-23;1;N-1;136;2052333333;PROM;6.0;;;1;360;NL;20049;PROM;CL;0.0;0.0;1.492
